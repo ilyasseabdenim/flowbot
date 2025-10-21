@@ -235,7 +235,7 @@ const PropertiesPanel: React.FC = () => {
                     onCancel={() => setShowDeleteConfirm(false)}
                 />
             )}
-        </div>
+        </>
     );
 };
 
